@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Debug and runtime artifacts
+debug_frames/
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Route outputs (can be generated at runtime)
+# best_route.json
